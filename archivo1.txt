@@ -1,1 +1,2 @@
-Esta es la primer linea de codigo
+Esta es la primer linea de texto
+Esta es la segunda linea de texto
